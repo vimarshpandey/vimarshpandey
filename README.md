@@ -1,3 +1,4 @@
+![logo](https://github.com/vimarshpandey/vimarshpandey/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Vimarsh Pandey</h1>
 <h3 align="center">An aspiring software developer from India</h3>
 
