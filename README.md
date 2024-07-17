@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimarshpandey&label=Profile%20views&color=0e75b6&style=flat" alt="vimarshpandey" /> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithm in C++**
+- 🌱 I’m currently learning **Data Structure and Algorithm in Java**
 
 - 👨‍💻 All of my projects are available at [https://vimpandey.me/](https://vimpandey.me/)
 
